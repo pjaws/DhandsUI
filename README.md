@@ -13,4 +13,4 @@ AddMedia('font', 'Poppins-Medium.ttf', 'Poppins Medium')
 
 AddMedia('font', 'Poppins-SemiBold.ttf', 'Poppins SemiBold')
 
-1. Save the file, and you're done!
+5. Save the file, and you're done!
