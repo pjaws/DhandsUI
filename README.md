@@ -2,7 +2,7 @@
 
 The official Dhands UI. Profiles for ElvUI, Plater, and Details.
 
-## Adding Custom Font to ElvUI
+## Adding Custom Fonts to ElvUI
 
 1. Download the fonts from GitHub
 1. Copy/Paste them into World of Warcraft > \_retail_ > Interface > AddOns > ElvUI > Media > Fonts
